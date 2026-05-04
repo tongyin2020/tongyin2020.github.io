@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Page -->
+  <url>
+    <loc>https://insightbridge.global/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Intelligence Column -->
+  <url>
+    <loc>https://insightbridge.global/intelligence-vol01.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/intelligence-market-report.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Publications -->
+  <url>
+    <loc>https://insightbridge.global/publications/HBS_Case_Study_PUBLICATION_GRADE.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/HBS_Case_Study_CHINESE.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/IMD_Article_Final-1.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/Core_Code_Theory_AMR.pdf</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/DPR_PLC_Neural_Financial_Model.pdf</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/MBA_Crisis_Performance_UI_vs_Core_Code.pdf</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/Kinship_Capability_and_Cost_Cross-Strait_Stability_2026-2030_v3.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/Reclaiming_Leadership_Intuition_REVISED.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/From_Extraction_to_Home_Civilization_Think_Tank_Report.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/The-Tyranny-of-Mediocrity-Why-Our-Systems-Are-Designed-to-Exile-the-Heroes-We-Need-1.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/Lianhe_Zaobao_Cross_Strait_Realist_Framework.pdf</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/Mei-Guo-Jing-Ji-1.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/San-Yi-Mei-Yuan-De-Guan-Li-Fu-Zhai-_Jia-Yuan-Wen-Hua-Jing-Shi-_Yin-Tong-Bo-Shi.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/Cong-Zha-Qu-Wen-Ming-Dao-Jia-Yuan-Wen-Ming-_Zhi-Ku-Zhuan-Gao-_Xiu-Ding-Ban.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://insightbridge.global/publications/Lian-He-Zao-Bao-Tou-Gao-_Qin-Yuan-Shi-Li-Yu-Dai-Jia-_Tai-Hai-Wen-Ding-De-Xian-Shi-Zhu-Yi-Xin-Kuang-Jia.pdf</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
