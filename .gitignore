@@ -1,0 +1,12 @@
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略开发环境和临时文件
+.vscode/
+.idea/
+node_modules/
+*.log
+
+# 忽略可能包含隐私的文件
+.env
